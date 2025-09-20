@@ -18,4 +18,4 @@
 
 echo # Example environment variables > .env.example
 echo DB_HOST=localhost >> .env.example
-echo DB_USER=root >> .env.example
+echo DB_USER=root >> .env.exampleFeature: Added sample page
