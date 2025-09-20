@@ -4,3 +4,19 @@
 
     
 
+<<<<<<< HEAD
+=======
+***********************************************
+
+    echo # Ignore environment files > .gitignore
+    echo .env >> .gitignore
+    echo # Ignore IDE files >> .gitignore
+    echo .idea/ >> .gitignore
+    echo .vscode/ >> .gitignore
+    echo # Ignore OS files >> .gitignore
+    echo .DS_Store >> .gitignore
+
+
+
+
+>>>>>>> 0708e97 (merge develop to main resolce conflict)
