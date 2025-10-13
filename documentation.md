@@ -134,4 +134,4 @@ Git Flow will:
 
 ---
 
-This scenario ensures that anyone (including your future self 👀) can clearly understand how to move from **idea → code → release** using Git Flow and GitHub.
+This scenario ensures that anyone (including my future self 👀) can clearly understand how to move from **idea → code → release** using Git Flow and GitHub.
