@@ -32,3 +32,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+#log branch
+.env.example
+.editorconfig
+scripts/
+0202-git-commands.png
+back-Merge.md
+CONTRIBUTING.md
+documentation.md
+Essential.md
+index.html
+LICENSE
+SemVer.md
